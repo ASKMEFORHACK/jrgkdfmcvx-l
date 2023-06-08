@@ -1,0 +1,16 @@
+.img
+{
+    float: right;
+}
+.p
+{
+    background-color: rgb(147, 137, 137);
+    text-decoration-color: white;
+    outline-color: white;
+    border-color: grey;
+}
+.hi
+{
+    border-color: grey;
+    outline-color: white;
+}
